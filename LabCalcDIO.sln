@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabCalcDIO", "LabCalcDIO\LabCalcDIO.csproj", "{6D83238D-4209-4881-A6BB-F3DF4BA26446}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestesLabCalcDIO", "TestesLabCalcDIO\TestesLabCalcDIO.csproj", "{216AB2CB-D0C9-4CA6-ABD4-E3464BA00920}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D83238D-4209-4881-A6BB-F3DF4BA26446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D83238D-4209-4881-A6BB-F3DF4BA26446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D83238D-4209-4881-A6BB-F3DF4BA26446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D83238D-4209-4881-A6BB-F3DF4BA26446}.Release|Any CPU.Build.0 = Release|Any CPU
+		{216AB2CB-D0C9-4CA6-ABD4-E3464BA00920}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{216AB2CB-D0C9-4CA6-ABD4-E3464BA00920}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{216AB2CB-D0C9-4CA6-ABD4-E3464BA00920}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{216AB2CB-D0C9-4CA6-ABD4-E3464BA00920}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B3873FE-2D24-4454-A725-9EE594D2CC94}
+	EndGlobalSection
+EndGlobal
